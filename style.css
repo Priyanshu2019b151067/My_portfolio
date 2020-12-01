@@ -1,0 +1,34 @@
+body{
+    font-family: 'Goldman', cursive;
+font-family: 'Nerko One', cursive;
+background-color: #edfcd2;
+}
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: black;
+color: white;
+text-align: center;
+}
+hr{
+
+border: none;
+border-top: dotted 4px grey;
+width: 60%;
+background-color: white;
+}
+#bio{
+  border:2px solid black;
+  padding: 8px;
+}
+#myself{
+  border:2px solid black;
+  padding: 8px;
+}
+#imageid{
+  border:2px solid black;
+  padding: 8px;
+  border-radius: 106px;
+}
